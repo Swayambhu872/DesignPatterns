@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BehaviouralCommandDesignPattren/BehaviouralCommandDesignPattren.iml" filepath="$PROJECT_DIR$/BehaviouralCommandDesignPattren/BehaviouralCommandDesignPattren.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BehaviouralIteratorPattern/BehaviouralIteratorPattern.iml" filepath="$PROJECT_DIR$/BehaviouralIteratorPattern/BehaviouralIteratorPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BehaviouralObserverPattern/BehaviouralObserverPattern.iml" filepath="$PROJECT_DIR$/BehaviouralObserverPattern/BehaviouralObserverPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BehaviouralStrategyPattern/BehaviouralStrategyPattern.iml" filepath="$PROJECT_DIR$/BehaviouralStrategyPattern/BehaviouralStrategyPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BuliderPattern/BuliderPattern.iml" filepath="$PROJECT_DIR$/BuliderPattern/BuliderPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design Patterns.iml" filepath="$PROJECT_DIR$/Design Patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FactoryMethod/FactoryMethod.iml" filepath="$PROJECT_DIR$/FactoryMethod/FactoryMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SingletonPattern/SingletonPattern.iml" filepath="$PROJECT_DIR$/SingletonPattern/SingletonPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StructuralDecoratorPattern/StructuralDecoratorPattern.iml" filepath="$PROJECT_DIR$/StructuralDecoratorPattern/StructuralDecoratorPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StructuralDesignPattern/StructuralDesignPattern.iml" filepath="$PROJECT_DIR$/StructuralDesignPattern/StructuralDesignPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StructuralFacadePattern/StructuralFacadePattern.iml" filepath="$PROJECT_DIR$/StructuralFacadePattern/StructuralFacadePattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StructuralProxyPattern/StructuralProxyPattern.iml" filepath="$PROJECT_DIR$/StructuralProxyPattern/StructuralProxyPattern.iml" />
+    </modules>
+  </component>
+</project>
